@@ -1,4 +1,4 @@
-# {Tatoo}(https://saikaldildemurat.github.io/Tatoo/)
+# [Tatoo](https://saikaldildemurat.github.io/Tatoo/)
 
 A pet project with team
 
